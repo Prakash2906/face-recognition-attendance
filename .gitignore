@@ -1,0 +1,15 @@
+# build output
+target/
+
+# created when the app runs: personal face photos and attendance data, never commit these
+dataset/
+data/
+exports/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
